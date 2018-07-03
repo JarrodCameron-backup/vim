@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/jcameron/.vim/colors'
+let g:netrw_dirhist_2='/home/jcameron/Documents/COMP1511/tut05'
+let g:netrw_dirhist_3='/home/jcameron/.vim/colors'
+let g:netrw_dirhist_4='/home/jcameron/Desktop/test_folder'
+let g:netrw_dirhist_5='/home/jcameron/Documents/COMP1511'
+let g:netrw_dirhist_6='/home/jcameron/.vim'
+let g:netrw_dirhist_7='/home/jcameron/Documents/COMP1511'
+let g:netrw_dirhist_8='/home/jcameron/Desktop/dm_stuff'
+let g:netrw_dirhist_9='/home/jcameron/Desktop'
